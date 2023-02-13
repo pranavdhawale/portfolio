@@ -28,8 +28,8 @@ export default function Projects() {
           </h2>
 
           <p className="pb-5">
-            These are some of my best projects. I have built these with React,
-            MERN and vanilla CSS. Check them out.
+            These are some of my best projects. I have built these with MERN.
+            Check them out.
           </p>
         </div>
 
